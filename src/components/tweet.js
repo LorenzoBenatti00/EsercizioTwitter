@@ -1,5 +1,5 @@
 const Tweet = () => {
     return(
-        
+       props 
     )
 }
